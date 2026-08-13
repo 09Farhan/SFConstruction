@@ -1,0 +1,15 @@
+{
+  "Navigation": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "projects": "Proyectos",
+    "about": "Nosotros",
+    "reviews": "Reseñas",
+    "contact": "Contacto"
+  },
+  "Common": {
+    "getFreeQuote": "Obtén una Cotización Gratis",
+    "callNow": "Llama Ahora",
+    "readMoreReviews": "Lee más reseñas en Google"
+  }
+}
