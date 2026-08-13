@@ -22,6 +22,9 @@ export const metadata: Metadata = {
   alternates: {
     canonical: process.env.NEXT_PUBLIC_SITE_URL || 'https://sfconstructionmx.com',
   },
+  icons: {
+    icon: '/logo.jpg',
+  },
 };
 
 export function generateStaticParams() {
